@@ -2,15 +2,19 @@
 
 Sistema de gerenciamento de equipamentos e empréstimos do laboratório de uma instituição de ensino.
 
-**Aluna:** Marcela Penha Monteiro
-**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End
+**Aluno:** Marcela Penha Monteiro
+
+**Disciplina:** Projeto de Bloco: Desenvolvimento Back-End [26E4_5]
+
 **Trilha:** Java
 
 ## Sobre o projeto
 
-O CampusLab vai substituir as planilhas usadas hoje para controlar os equipamentos do laboratório (notebooks, projetores, câmeras, microfones etc.). Com ele, alunos e professores podem consultar o que está disponível e solicitar empréstimos, e os responsáveis pelo laboratório acompanham as solicitações, as retiradas e as devoluções.
+Projeto acadêmico desenvolvido a partir de uma especificação fornecida pelo professor da disciplina. O cenário é o de uma instituição de ensino que controla os equipamentos do seu laboratório (notebooks, projetores, câmeras, microfones etc.) por meio de planilhas, e precisa de um sistema para organizar os empréstimos.
 
-O projeto vai ser desenvolvido aos poucos, ao longo dos Trabalhos Práticos da disciplina. Neste TP1 estão o levantamento de requisitos, os casos de uso e um primeiro programa standalone simples.
+No CampusLab, alunos e professores consultam os equipamentos disponíveis e fazem solicitações de empréstimo, e os responsáveis pelo laboratório analisam as solicitações e registram as retiradas e as devoluções.
+
+O sistema vai ser construído aos poucos, ao longo dos Trabalhos Práticos. Neste TP1 estão o levantamento de requisitos, os casos de uso e um primeiro programa standalone simples.
 
 ## Estrutura
 
