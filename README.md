@@ -22,5 +22,4 @@ O projeto vai ser desenvolvido aos poucos, ao longo dos Trabalhos Práticos da d
 1. Abra o projeto no IntelliJ IDEA com o JDK 21 configurado.
 2. Abra o arquivo `src/Main.java`.
 3. Clique na seta verde ao lado do método `main` e escolha **Run 'Main.main()'**.
-3. Clique na seta verde ao lado do método `main` e escolha **Run 'Main.main()'**.
 4. O programa roda no console do IntelliJ.
